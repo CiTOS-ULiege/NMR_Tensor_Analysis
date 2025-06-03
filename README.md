@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿**Tools for Computer-Aided Kinetic Modeling (Part 1)**
+=======
+**Tools for Computer-Aided Kinetic Modeling (Part 1)**
+>>>>>>> 3ba84e62b0f35f5867a08fc7304572a01fd8909d
 ---
 **Research context**
 The tools described in this repository were developed as part of the research on the mechanistic study of dynamic covalent exchanges of orthoesters with diols.
