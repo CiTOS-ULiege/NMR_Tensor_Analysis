@@ -105,9 +105,7 @@ print(f"Analysis complete. Results saved to {base_path}")
 ```
 ![enter image description here](https://lh3.googleusercontent.com/d/1jJXpFY0AgJGW0vo1rdPS7SlPcJiPCxqC)
 
-**Scope and Limitations:** 
-
-This tool offers preliminary statistical indicators to support the analysis of complex NMR kinetic data. It is designed to estimate the minimal number of compounds in a mixture. However, it does not replace comprehensive structural characterization. The results should be interpreted as working hypotheses to be validated experimentally. The tool is less effective for trace species or highly overlapping signals.
+**Scope and Limitations:** This tool offers preliminary statistical indicators to support the analysis of complex NMR kinetic data. It is designed to estimate the minimal number of compounds in a mixture. However, it does not replace comprehensive structural characterization. The results should be interpreted as working hypotheses to be validated experimentally. The tool is less effective for trace species or highly overlapping signals.
 
 **Funding**
 
