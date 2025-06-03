@@ -1,5 +1,3 @@
-```
-```
 **Tools for Computer-Aided Kinetic Modeling (Part 1)**
 ---
 **Research context**
