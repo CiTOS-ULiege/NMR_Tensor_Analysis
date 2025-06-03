@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿**Tools for Computer-Aided Kinetic Modeling (Part 1)**
 =======
 **Tools for Computer-Aided Kinetic Modeling (Part 1)**
