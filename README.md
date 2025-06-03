@@ -116,5 +116,6 @@ This research program was funded by the University of Liege, the French Communit
 This research program was funded by the University of Liege, the French Community of Belgium (Concerted Research Action CO2FLUIDICS 21/25-04). Dr. Christophe Detrembleur (Concerted Research Action CO2FLUIDICS 21/25-04, PI) and Dr. Bruno Grignard (Concerted Research Action CO2FLUIDICS 21/25-04, Collaborator) are acknowledged for their support. The authors acknowledge the “Fonds de la Recherche Scientifique (F.R.S.-FNRS) for funding. Computational resources were provided by the “Consortium des Équipements de Calcul Intensif” (CÉCI), funded by the “Fonds de la Recherche Scientifique de Belgique” (F.R.S.-FNRS) under Grant No. 2.5020.11a. The manuscript was written through contributions of all authors. All authors have given approval to the final version of the manuscript.
 
 **Attributions**
+
 The code in this repository is licensed under the MIT License. You are free to use, modify, and distribute the code under the terms of this license.
-```
+
