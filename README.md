@@ -105,12 +105,16 @@ print(f"Analysis complete. Results saved to {base_path}")
 ```
 ![enter image description here](https://lh3.googleusercontent.com/d/1jJXpFY0AgJGW0vo1rdPS7SlPcJiPCxqC)
 
-**Scope and Limitations:** This tool offers preliminary statistical indicators to support the analysis of complex NMR kinetic data. It is designed to estimate the minimal number of compounds in a mixture. However, it does not replace comprehensive structural characterization. The results should be interpreted as working hypotheses to be validated experimentally. The tool is less effective for trace species or highly overlapping signals.
+**Scope and Limitations:** 
+
+This tool offers preliminary statistical indicators to support the analysis of complex NMR kinetic data. It is designed to estimate the minimal number of compounds in a mixture. However, it does not replace comprehensive structural characterization. The results should be interpreted as working hypotheses to be validated experimentally. The tool is less effective for trace species or highly overlapping signals.
 
 **Funding**
+
 This research program was funded by the University of Liege, the French Community of Belgium (Concerted Research Action CO2FLUIDICS 21/25-04). Computational resources were provided by the “Consortium des Équipements de Calcul Intensif” (CÉCI), funded by the “Fonds de la Recherche Scientifique de Belgique” (F.R.S.-FNRS) under Grant No. 2.5020.11a. 
 
 **Acknowledgments**
+
 This research program was funded by the University of Liege, the French Community of Belgium (Concerted Research Action CO2FLUIDICS 21/25-04). Dr. Christophe Detrembleur (Concerted Research Action CO2FLUIDICS 21/25-04, PI) and Dr. Bruno Grignard (Concerted Research Action CO2FLUIDICS 21/25-04, Collaborator) are acknowledged for their support. The authors acknowledge the “Fonds de la Recherche Scientifique (F.R.S.-FNRS) for funding. Computational resources were provided by the “Consortium des Équipements de Calcul Intensif” (CÉCI), funded by the “Fonds de la Recherche Scientifique de Belgique” (F.R.S.-FNRS) under Grant No. 2.5020.11a. The manuscript was written through contributions of all authors. All authors have given approval to the final version of the manuscript.
 
 **Attributions**
